@@ -23,11 +23,6 @@ dev = [
 [tool.hatch.build.targets.wheel]
 packages = ["src/ac_server_gui"]
 
-[tool.pytest.ini_options]
-testpaths = ["tests"]
-markers = ["integration: tests that launch the actual AC server"]
-addopts = "-m 'not integration'"
-
 [tool.ruff]
 line-length = 100
 src = ["src"]

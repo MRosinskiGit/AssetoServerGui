@@ -1,0 +1,13 @@
+-r requirements.txt
+
+# testing
+pytest>=7.0
+pytest-qt>=4.0
+pytest-mock>=3.10
+
+# type stubs
+types-PyYAML
+
+# lint / type check
+ruff>=0.1
+mypy>=1.0
