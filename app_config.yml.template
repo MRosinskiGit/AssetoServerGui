@@ -1,0 +1,6 @@
+server_exe: "C:/Program Files (x86)/Steam/steamapps/common/assettocorsa/server/acServer.exe"
+server_dir: "C:/Program Files (x86)/Steam/steamapps/common/assettocorsa/server"
+presets_dir: "C:/Program Files (x86)/Steam/steamapps/common/assettocorsa/server/presets"
+content_dir: "C:/Program Files (x86)/Steam/steamapps/common/assettocorsa/content"
+logs_dir: "logs"
+openweathermap_api_key: ""

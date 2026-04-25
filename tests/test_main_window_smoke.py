@@ -23,6 +23,7 @@ def config(tmp_path: Path) -> AppConfig:
         server_exe=Path("acServer.exe"),
         server_dir=tmp_path,
         presets_dir=presets_dir,
+        content_dir=tmp_path,
         logs_dir=tmp_path / "logs",
     )
 
