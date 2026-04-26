@@ -11,7 +11,7 @@ Manage Assetto Corsa server presets, configure every aspect of the server from a
 
 - Windows 10 / 11
 - Python 3.11+
-- Assetto Corsa + AssettoServer installed (default Steam path, or edit `app_config.yml`)
+- Assetto Corsa + [AssettoServer](https://assettoserver.org/) (0.0.54) installed (default Steam path, or edit `app_config.yml`)
 
 ---
 
