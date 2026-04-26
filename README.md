@@ -1,5 +1,7 @@
 # AC Server GUI
 
+> 🎵✨ **Vibecoded.** This project is still under active vibedebugging 🔍🐛 and vibefixing 🔧💫 ✨🎵
+
 Desktop GUI manager for [AssettoServer](https://github.com/compujuckel/AssettoServer/) (compujuckel fork) on Windows.  
 Manage Assetto Corsa server presets, configure every aspect of the server from a graphical interface, start/stop the server, and monitor live logs — all in one window.
 
